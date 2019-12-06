@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.yangjie10930:EpMedia:v0.9.5@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ffe29993afbe465c2ca0c6f87d3f34cc/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ffe29993afbe465c2ca0c6f87d3f34cc/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ffe29993afbe465c2ca0c6f87d3f34cc/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.yangjie10930/EpMedia/v0.9.5/9452750e2f72e724e2c01e79293558c53fa4f7b8/EpMedia-v0.9.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
