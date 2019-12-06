@@ -57,13 +57,7 @@
     <last-search-timestamp>1574684678114</last-search-timestamp>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70347693-c44d-48ae-bee5-f3f8d549f4c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/mfapp.jks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/videoedit/selcover/SelCoverTimeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/videoedit/selcover/SelCoverTimeActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_sel_cover_time.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_sel_cover_time.xml" afterDir="false" />
-    </list>
+    <list default="true" id="70347693-c44d-48ae-bee5-f3f8d549f4c0" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,11 +133,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+            <state relative-caret-position="345">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -157,11 +151,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -688,11 +682,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="4" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" sideWeight="0.5013123" side_tool="true" weight="0.23891273" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49868765" visible="true" weight="0.21173105" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49868765" visible="true" weight="0.21173105" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Build Variants" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
@@ -708,7 +702,7 @@
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Flutter Performance" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.56036747" />
-      <window_info active="true" anchor="bottom" id="Build" order="8" visible="true" weight="0.32939634" />
+      <window_info anchor="bottom" id="Build" order="8" visible="true" weight="0.32939634" />
       <window_info anchor="bottom" id="Find" order="9" weight="0.39763778" />
       <window_info anchor="bottom" id="Logcat" order="10" weight="0.5944882" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
@@ -996,13 +990,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_sel_cover_time.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-220">
@@ -1027,8 +1014,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>

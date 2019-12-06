@@ -1,5 +1,8 @@
 # 源码导读
 
+## <span id="预览">预览</span>
+![image](https://github.com/liuchaotclc/photoFilter/blob/master/img/shortcut.gif)
+
 ## <span id="工程概述">工程概述</span>
 入口页面为MainActivity，主页面首先获取文件读写权限，先从视频文件选择页面（VideoPickActivity）选取视频。
 获取视频返回MainActivity，判断视频数据时长，打开视频编辑页TrimVideoActivity。
@@ -51,3 +54,8 @@ TrimVideoActivity 支持旋转 滤镜 分屏 裁剪多种操作
 
 ### 重要提示
 - 视频缓存文件要在使用完滤镜后删除，不然会越来越多。在SelCoverTimeActivity的onDestroy方法中有删除示例
+
+
+## <span id="预览">支持开源，如果项目有帮到你，给点捐助呗</span>
+
+![image](https://github.com/liuchaotclc/photoFilter/blob/master/img/IMG_5447.JPG)![image](https://github.com/liuchaotclc/photoFilter/blob/master/img/IMG_5460.JPG)
