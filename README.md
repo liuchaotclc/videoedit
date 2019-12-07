@@ -58,4 +58,4 @@ TrimVideoActivity 支持旋转 滤镜 分屏 裁剪多种操作
 
 ## <span id="预览">支持开源，如果项目有帮到你，给点捐助呗</span>
 
-![image](https://github.com/liuchaotclc/photoFilter/blob/master/img/IMG_5447.JPG)![image](https://github.com/liuchaotclc/photoFilter/blob/master/img/IMG_5460.JPG)
+![image](https://github.com/liuchaotclc/photoFilter/blob/master/img/ic_pay_img.png)
