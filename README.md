@@ -1,7 +1,7 @@
 # 源码导读
 
 ## <span id="预览">预览</span>
-![image](https://github.com/liuchaotclc/photoFilter/blob/master/img/shortcut.gif)
+![image](https://github.com/liuchaotclc/videoedit/blob/master/images/shortcut.gif)
 
 ## <span id="工程概述">工程概述</span>
 入口页面为MainActivity，主页面首先获取文件读写权限，先从视频文件选择页面（VideoPickActivity）选取视频。
