@@ -55,7 +55,3 @@ TrimVideoActivity 支持旋转 滤镜 分屏 裁剪多种操作
 ### 重要提示
 - 视频缓存文件要在使用完滤镜后删除，不然会越来越多。在SelCoverTimeActivity的onDestroy方法中有删除示例
 
-
-## <span id="预览">支持开源，如果项目有帮到你，给点捐助呗</span>
-
-![image](https://github.com/liuchaotclc/photoFilter/blob/master/img/ic_pay_img.png)
